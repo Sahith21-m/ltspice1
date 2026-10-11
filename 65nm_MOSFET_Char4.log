@@ -1,0 +1,36 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net
+Start Time: Sun Oct 11 15:06:39 2026
+Options:ALLOW_AMBIGUOUS_MODELS
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net(5): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 N001 N002 0 0 NMOS
+                 ^^^^
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net(4): Missing value, assuming 0V @ DC.
+
+V2 N001 0
+^^^^^^^^^
+.step vg=0.3
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net(5): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 N001 N002 0 0 NMOS
+                 ^^^^
+.step vg=0.6
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net(5): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 N001 N002 0 0 NMOS
+                 ^^^^
+.step vg=0.9
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net(5): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 N001 N002 0 0 NMOS
+                 ^^^^
+.step vg=1.5
+Total elapsed time: 0.573 seconds.
+
+Files loaded:
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_MOSFET_Char.net
+C:\Users\SAHIT\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\SAHIT\OneDrive\Desktop\EDA\ltspice\lt_eda_1\65nm_bulk.pm
+
