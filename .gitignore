@@ -1,0 +1,12 @@
+# Python
+pycache /
+*.pyc
+.venv/
+# EDA / simulator artefacts
+*.raw
+*.log
+*.out
+*.b#*
+# OS clutter
+Thumbs.db
+.DS_Store
