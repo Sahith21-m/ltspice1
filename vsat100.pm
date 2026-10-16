@@ -23,7 +23,7 @@
 +ngate   = 2e+020       ndep    = 2.54e+018    nsd     = 2e+020       phin    = 0          
 +cdsc    = 0.000        cdscb   = 0            cdscd   = 0            cit     = 0          
 +voff    = -0.13        nfactor = 1.9          eta0    = 0.0058       etab    = 0          
-+vfb     = -0.55        u0      = 0.0491       ua      = 0       ub      = 0    
++vfb     = -0.55        u0      = 0.0491       ua      = 6e-010       ub      = 1.2e-018     
 +uc      = 0            vsat    = 124340       a0      = 1.0          ags     = 1e-020     
 +a1      = 0            a2      = 1.0          b0      = 0            b1      = 0          
 +keta    = 0.04         dwg     = 0            dwb     = 0            pclm    = 0.04       
@@ -95,7 +95,7 @@
 +cdsc    = 0.000        cdscb   = 0            cdscd   = 0            cit     = 0          
 +voff    = -0.126       nfactor = 1.9          eta0    = 0.0058       etab    = 0          
 +vfb     = 0.55         u0      = 0.00574      ua      = 2.0e-009     ub      = 0.5e-018     
-+uc      = 0            vsat    = 70000        a0      = 1.0          ags     = 1e-020     
++uc      = 0            vsat    = 7000000        a0      = 1.0          ags     = 1e-020     
 +a1      = 0            a2      = 1            b0      = -1e-020      b1      = 0          
 +keta    = -0.047       dwg     = 0            dwb     = 0            pclm    = 0.12       
 +pdiblc1 = 0.001        pdiblc2 = 0.001        pdiblcb = 3.4e-008     drout   = 0.56       
