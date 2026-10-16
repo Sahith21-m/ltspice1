@@ -2,7 +2,7 @@
 
 * PTM 65nm NMOS 
  
-.model  nmos  nmos  level = 54
+.model  nmos1  nmos  level = 54
 
 +version = 4.0          binunit = 1            paramchk= 1            mobmod  = 0          
 +capmod  = 2            igcmod  = 1            igbmod  = 1            geomod  = 1          
@@ -95,7 +95,7 @@
 +cdsc    = 0.000        cdscb   = 0            cdscd   = 0            cit     = 0          
 +voff    = -0.126       nfactor = 1.9          eta0    = 0.0058       etab    = 0          
 +vfb     = 0.55         u0      = 0.00574      ua      = 2.0e-009     ub      = 0.5e-018     
-+uc      = 0            vsat    = 7000000        a0      = 1.0          ags     = 1e-020     
++uc      = 0            vsat    = 70000        a0      = 1.0          ags     = 1e-020     
 +a1      = 0            a2      = 1            b0      = -1e-020      b1      = 0          
 +keta    = -0.047       dwg     = 0            dwb     = 0            pclm    = 0.12       
 +pdiblc1 = 0.001        pdiblc2 = 0.001        pdiblcb = 3.4e-008     drout   = 0.56       
