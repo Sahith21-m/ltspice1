@@ -2,7 +2,7 @@
 
 * PTM 65nm NMOS 
  
-.model  nmos1  nmos  level = 54
+.model  nmos2  nmos  level = 54
 
 +version = 4.0          binunit = 1            paramchk= 1            mobmod  = 0          
 +capmod  = 2            igcmod  = 1            igbmod  = 1            geomod  = 1          
