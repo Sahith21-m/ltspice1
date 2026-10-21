@@ -30,7 +30,7 @@
 +pdiblc1 = 0.001        pdiblc2 = 0.001        pdiblcb = -0.005       drout   = 0.5        
 +pvag    = 1e-020       delta   = 0.01         pscbe1  = 8.14e+008    pscbe2  = 1e-007     
 +fprout  = 0.2          pdits   = 0.08         pditsd  = 0.23         pditsl  = 2.3e+006   
-+rsh     = 5            rdsw    = 50         rsw     = 85           rdw     = 85        
++rsh     = 5            rdsw    = 165         rsw     = 85           rdw     = 85        
 +rdswmin = 0            rdwmin  = 0            rswmin  = 0            prwg    = 0          
 +prwb    = 6.8e-011     wr      = 1            alpha0  = 0.074        alpha1  = 0.005      
 +beta0   = 30           agidl   = 0.0002       bgidl   = 2.1e+009     cgidl   = 0.0002     

@@ -24,13 +24,13 @@
 +cdsc    = 0.000        cdscb   = 0            cdscd   = 0            cit     = 0          
 +voff    = -0.13        nfactor = 1.9          eta0    = 0.0058       etab    = 0          
 +vfb     = -0.55        u0      = 0.0491       ua      = 6e-010       ub      = 1.2e-018     
-+uc      = 0            vsat    = 124340       a0      = 1.0          ags     = 1e-020     
++uc      = 0            vsat    = 12434000       a0      = 1.0          ags     = 1e-020     
 +a1      = 0            a2      = 1.0          b0      = 0            b1      = 0          
 +keta    = 0.04         dwg     = 0            dwb     = 0            pclm    = 0.04       
 +pdiblc1 = 0.001        pdiblc2 = 0.001        pdiblcb = -0.005       drout   = 0.5        
 +pvag    = 1e-020       delta   = 0.01         pscbe1  = 8.14e+008    pscbe2  = 1e-007     
 +fprout  = 0.2          pdits   = 0.08         pditsd  = 0.23         pditsl  = 2.3e+006   
-+rsh     = 5            rdsw    = 400         rsw     = 85           rdw     = 85        
++rsh     = 5            rdsw    = 165         rsw     = 85           rdw     = 85        
 +rdswmin = 0            rdwmin  = 0            rswmin  = 0            prwg    = 0          
 +prwb    = 6.8e-011     wr      = 1            alpha0  = 0.074        alpha1  = 0.005      
 +beta0   = 30           agidl   = 0.0002       bgidl   = 2.1e+009     cgidl   = 0.0002     
