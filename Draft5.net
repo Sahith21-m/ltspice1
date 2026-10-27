@@ -1,0 +1,14 @@
+*
+V1 N002 0 0.9
+V2 N001 0
+M1 N001 N002 0 0 NMOS1 l=70e-09 w=1e-6
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\SAHIT\AppData\Local\LTspice\lib\cmp\standard.mos
+.OPTIONS ALLOW_AMBIGUOUS_MODELS
+* gate
+* drain
+.inc nfit.pm
+.dc V2 0 1.2 0.01
+.backanno
+.end
